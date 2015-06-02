@@ -1,2 +1,2 @@
-![Œv‰æ‘œ](http://php-fan.org/wp-content/uploads/2012/09/countupdown-300x196.jpg)
-* Œv‚¾‚æ`
+![æ™‚è¨ˆ](http://php-fan.org/wp-content/uploads/2012/09/countupdown-300x196.jpg)
+* æ™‚è¨ˆã®ç”»åƒã‚’æ²è¼‰ï¼
